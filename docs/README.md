@@ -12,7 +12,7 @@ actions:
 #    link: /get-started.html
  #   type: secondary
 
-footer: MIT Licensed | Copyright (c) 2022-2025 [RuriOSS](https://github.com/RuriOSS)
+footer: MIT Licensed | Copyright (c) 2022-2025 RuriOSS
 ---
 
 ## Highlights
