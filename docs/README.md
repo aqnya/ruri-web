@@ -12,7 +12,7 @@ actions:
 #    link: /get-started.html
  #   type: secondary
 
-footer: MIT Licensed | Copyright © 2018-present VuePress Community
+footer: MIT Licensed | Copyright (c) 2022-2025 Moe-hacker
 ---
 
 ## Highlights
